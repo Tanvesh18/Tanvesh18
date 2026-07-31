@@ -1,7 +1,7 @@
 Hey there 👋 I'm Tanvesh  
 
 I’m a developer who loves turning ideas into working products and breaking down complex problems into simple solutions.  
-Currently focused on Flutter development and sharpening my problem-solving skills.
+Currently focused on Mobile and Web development and sharpening my problem-solving skills.
 
 
 ## 🌐 Socials:
