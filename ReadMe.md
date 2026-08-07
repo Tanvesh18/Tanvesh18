@@ -1,8 +1,6 @@
 Hey there 👋 I'm Tanvesh  
 
-I’m a developer who loves turning ideas into working products and breaking down complex problems into simple solutions.  
-Currently focused on Mobile and Web development and sharpening my problem-solving skills.
-
+Vit Pune - CSE
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tvesh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvesh-deshmukh-3136b733b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanveshdeshmukh1826@gmail.com) 
